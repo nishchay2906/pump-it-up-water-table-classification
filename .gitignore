@@ -1,0 +1,7 @@
+.venv/
+.ipynb_checkpoints/
+Train_data_final.csv
+Test_data_final.csv
+clean_data.csv
+xtrainfinal.csv
+submission*.csv
